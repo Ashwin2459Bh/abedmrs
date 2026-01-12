@@ -74,14 +74,11 @@ It is **recommended to run this project only on Google Colab** for proper functi
 1. Open **Google Colab**  
    https://colab.research.google.com/
 
-2. Upload the original `.ipynb` file or the `index.py` file.
+2. Upload the original `.ipynb` file 
 3. Download datset from  link :  https://www.kaggle.com/datasets/carlthome/gtzan-genre-collection
 4. upload on google drive
+5. run the project
 
-5. Mount Google Drive:
-   ```python
-   from google.colab import drive
-   drive.mount('/content/drive')
 
 
 Why Google Colab?
@@ -122,7 +119,7 @@ This project is created only for educational and research purposes.
 The GTZAN dataset is used strictly for learning and experimentation.
 
 
-Ashwin
+Ashwin Daniel 
 
 AI Developer | Machine Learning | Python
 
